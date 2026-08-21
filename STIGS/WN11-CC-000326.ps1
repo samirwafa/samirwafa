@@ -12,7 +12,7 @@ PowerShell script that enables PowerShell Script Block Logging and meets the req
     CVEs            : N/A
     Plugin IDs      : N/A
     STIG-ID         : WN11-CC-000326
-    Documentation   : https://stigaview.com/products/win11/v2r7/WN11-AU-000500/
+    Documentation   : https://stigaview.com/products/win11/v2r7/WN11-CC-000326/
 
 .TESTED ON
     Date(s) Tested  : 
