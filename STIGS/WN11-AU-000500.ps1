@@ -38,3 +38,9 @@ New-ItemProperty `
     -PropertyType DWord `
     -Value 0x8000 `
     -Force | Out-Null
+
+#Verify
+Get-ItemProperty `
+    -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows\EventLog\Application" `
+    -Name "MaxSize"
+
